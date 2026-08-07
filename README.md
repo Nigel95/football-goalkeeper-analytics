@@ -1,4 +1,4 @@
-# football-goalkeeper-analytics
+# Football-goalkeeper-analytics
 # 🧤 European Football – Does a Goalkeeper's Height Matter?
 
 ## 📌 Contexte du projet
