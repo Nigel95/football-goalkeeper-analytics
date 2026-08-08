@@ -83,16 +83,4 @@ La taille peut rester un atout dans des contextes précis (jeu aérien, dominati
 
 ---
 
-## 📁 Structure du repo
-```
-├── data/
-│   └── goalkeepers_dataset.csv
-├── notebooks/
-│   └── goalkeeper_height_analysis.ipynb
-├── images/
-│   └── goalkeeper_preview.png
-└── README.md
-```
-
----
 
